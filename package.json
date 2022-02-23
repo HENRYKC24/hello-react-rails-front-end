@@ -2,6 +2,7 @@
   "name": "hello-react-rails-front-end",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://kc-greeting.herokuapp.com/v1/greetings",
   "dependencies": {
     "cra-template": "1.1.3",
     "react": "^17.0.2",
