@@ -1,6 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Front End Greeting App
 
+
+[LIVE_DEMO](https://kc-react-rails-front-end.herokuapp.com/)
+
 > Building frontend app as a part of full-stack app
 
 This is a react front end applicaton built as part of the preparation for building full-stack web applicaton using react(frontend) and rails(backend).
@@ -12,7 +15,6 @@ This is a react front end applicaton built as part of the preparation for buildi
 - CSS
 - API
 ## Getting Started
-
 
 To get a local copy up and running follow these simple example steps.
 
